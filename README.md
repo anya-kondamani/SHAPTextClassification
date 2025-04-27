@@ -1,7 +1,8 @@
 # Text Classification with SHAP
 **Note:** This short project was completed as part of a homework submission for Responsible Data Science, Spring 2025 at New York University.
 
-Dataset used: [20 newsgroups dataset]([URL to navigate](https://scikit-learn.org/stable/datasets/#the-20-newsgroups-text-dataset)
+Dataset used: [20 newsgroups dataset](https://scikit-learn.org/stable/datasets/#the-20-newsgroups-text-dataset)
+
 Source referenced for implementation: [SHAP Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 
 ### Implementing SHAP
